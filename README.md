@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **C and javascript**
 
-- 👨‍💻 All of my projects are available at [not ready yet](not ready yet)
+- 👨‍💻 All of my projects are available at [not ready yet]
 
 - 📫 How to reach me **assalas270@outlook.fr**
 
-- 📄 About me [I study computer science at the University of Perpignan.](I study computer science at the University of Perpignan.)
+- 📄 About me [I study computer science at the University of Perpignan.]
 
 - ⚡ Fun fact **The f in printf stands for formatted not function.**
 
