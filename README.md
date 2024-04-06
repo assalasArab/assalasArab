@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **assalas270@outlook.fr**
 
-- 📄 About me (I study computer science at the University of Perpignan.)
+- 📄 I study computer science at the University of Perpignan
 
 - ⚡ Fun fact **The f in printf stands for formatted not function.**
 
