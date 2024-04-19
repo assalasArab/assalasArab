@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C and javascript**
 
-- 👨‍💻 All of my projects are available at assalasarab.github.io.
+- 👨‍💻 All of my projects are available at https://assalasportfolio.netlify.app
 
 - 📫 How to reach me **assalas270@outlook.fr**
 
