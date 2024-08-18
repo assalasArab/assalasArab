@@ -16,7 +16,7 @@
 
 - 📄 I study computer science at the University of Perpignan
 
-- ⚡ Fun fact **The f in printf stands for formatted not function.**
+- ⚡ Fun fact **The f in printf stands for formatted not Frankenstein.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
