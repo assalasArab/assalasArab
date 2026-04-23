@@ -1,20 +1,13 @@
 ![Header](./SALAS.png)
-<h1 align="center">Hi 👋, I'm Assalas</h1>
+<h1 align="center">Hi , I'm Assalas</h1>
 <h3 align="center">A passionate CS sutdent from France</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assalasarab&label=Profile%20views&color=0e75b6&style=flat" alt="assalasarab" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Carcassonne**
 
-- 🌱 I’m currently learning **C and javascript**
-
-- 👨‍💻 All of my projects are available at https://assalasportfolio.netlify.app
-
-- 📫 How to reach me **assalas270@outlook.fr**
-
-- 📄 I study computer science at the University of Perpignan
+- 📫 How to reach me **assalas20001@gmail.com**
 
 - ⚡ Fun fact **The f in printf stands for formatted not Frankenstein.**
 
